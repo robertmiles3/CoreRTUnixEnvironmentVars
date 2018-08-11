@@ -1,0 +1,1 @@
+g++ -dynamiclib -o pal_environment.dylib pal_environment.cpp
